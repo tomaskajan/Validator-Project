@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Schema;
 
-namespace ConsoleApp4
+namespace Validator
 {
     class Program
     {
